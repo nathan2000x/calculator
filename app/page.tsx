@@ -4,7 +4,7 @@ import Calculator from "./calculator";
 
 export default function Home() {
   return (
-    <div>
+    <div >
       <Calculator />
     </div>
   );
